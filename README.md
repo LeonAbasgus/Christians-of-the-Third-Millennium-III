@@ -1,4 +1,5 @@
 **To Christians of the Third Millennium III** is the third volume of the philosophical-theological project *To Christians of the Third Millennium (CTM)*.
+DOI: 10.5281/zenodo.22819373
 
 This volume presents the methodological framework of CTM analysis as a vector analysis of subjecthood.
 
